@@ -1,5 +1,5 @@
 header {
-font-size: 10px;
+font-size: 40px;
 font-family: sans-serif;
 color: aqua;
 text-align: center;
@@ -8,7 +8,7 @@ text-align: center;
 nav {
     font-family: serif;
     color: aqua;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 .content {
@@ -17,7 +17,6 @@ nav {
     font-family: sans-serif;
     color: black;
 }
-
 footer{
     display: flex;
     align-self: flex-end;
